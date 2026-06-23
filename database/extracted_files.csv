@@ -1,0 +1,26 @@
+Extracted Files
+project/
+project/Procfile
+project/database/
+project/database/__init__.py
+project/database/db.py
+"project/{handlers,services,database,templates,generated_tests,utils}/"
+project/requirements.txt
+project/services/
+project/services/html_generator.py
+project/services/__init__.py
+project/config.py
+project/handlers/
+project/handlers/__init__.py
+project/handlers/start.py
+project/handlers/create_test.py
+project/handlers/my_tests.py
+project/README.md
+project/railway.json
+project/Dockerfile
+project/.gitignore
+project/utils/
+project/utils/__init__.py
+project/utils/parser.py
+project/utils/keyboards.py
+project/bot.py
